@@ -1,0 +1,6 @@
+<library path="lib/libsmpl_purepursuit_local_planner">
+    <class name="smpl_purepursuit_local_planner/PurePursuitPlanner" type="PurePursuitPlanner"
+           base_class_type="nav_core::BaseLocalPlanner">
+        <description>Plugin for vehicle lateral control using Pure Pursuit Algorithm</description>
+    </class>
+</library>
